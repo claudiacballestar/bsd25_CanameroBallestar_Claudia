@@ -35,7 +35,7 @@ Used software:
 The frame work of this project was given by **Roxanne Koitz-Hristov** in the subject *Data Strukturen und Algorithmen* 
 
 Some methodes and classes such as *RecommendationEngine* 
-*Data Loader
+*Data Loader*
 
 | Class | Methodes |
 |----------|--------|
