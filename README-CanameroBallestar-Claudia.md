@@ -1,4 +1,6 @@
-## EXERCISES
+# EXERCISES
+
+## Exercise 1
 
 **Part 1**
 
@@ -11,11 +13,20 @@ First document in Mark Down - readme of a Recommender java project
 - change into html and pdf with pandoc and terminal
 
 
-**Part2 2**
+**Part2**
 
 2) [Exercise1 Part2](exercise1_part2.md)
 - upload an .gitignore File in GitHub Reposistory
 
 3) [Exercise1 Part3](exercise1_part3.md)
-![foto command git status](images/ex1_3.png)
+![foto command git status](resources/images/ex1_3.png)
 
+
+## Exercise 2
+
+**Markdown with the entire description of the project**
+[Exercise2](exercise2.md)
+
+**Documentation for the log data configuration**
+- please check [security.conf.template](security.conf.template)
+- cp parameters into src/main/resorces/log4j2.xml
