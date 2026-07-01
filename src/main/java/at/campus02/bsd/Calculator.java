@@ -23,7 +23,7 @@ public class Calculator {
     public double divide(double number1, double number2){
         if(number2 == 0) {
             log.error("DIVIDE METHOD: parameters given: "+number1+","+number2+" impossible to divide to 0");
-            return -1;
+            throw new ArithmeticException("Division by 0 not possible");
         }else{
 
             double result = number1 / number2;
